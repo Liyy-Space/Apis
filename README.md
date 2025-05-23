@@ -1,1 +1,1 @@
-# Apis
+A fast and modern RESTful API built with FastAPI and Python. This project demonstrates how to create and deploy a scalable web API using Python 3.7+ with automatic interactive documentation.
